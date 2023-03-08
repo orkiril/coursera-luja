@@ -1,5 +1,4 @@
-a:link,
-a:visited {
+.blueviolet {
   color: blueviolet;
   text-decoration: none;
   border: 2px solid aqua;
@@ -10,7 +9,7 @@ a:visited {
   text-align: center;
 }
 
-a:hover,
-a:active {
+.blueviolet:hover,
+.blueviolet:active {
   background-color: aqua;
 }
